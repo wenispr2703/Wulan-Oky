@@ -318,7 +318,9 @@ font-weight: bold;
   padding-bottom: 10rem;
   background-color: #c2d0e1;
 }
-
+.gifts .col-md-6 {
+  margin-bottom: 5rem;
+}
 .rsvp {
   background-color: var(--bg);
 }
